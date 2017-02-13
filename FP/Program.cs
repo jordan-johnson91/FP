@@ -11,6 +11,8 @@ namespace FP
         static void Main(string[] args)
         {
             Console.Write("Hello World");
+            int age = 25;
+            Console.WriteLine(age);
         }
     }
 }
