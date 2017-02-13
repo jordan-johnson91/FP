@@ -13,6 +13,7 @@ namespace FP
             Console.Write("Hello World");
             int age = 25;
             Console.WriteLine(age);
+            Console.Write(85);
         }
     }
 }
